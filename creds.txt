@@ -1,2 +1,0 @@
-username=uday
-password=uday
